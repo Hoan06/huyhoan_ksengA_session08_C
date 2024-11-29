@@ -8,9 +8,10 @@
  			if(number[i][j]>max){
  			max=number[i][j];
 		 }
+	    }
 		 
 	 }
 	 printf("so lon nhat la : %d\n ", max);
  	 return 0;
     }
-    }
+    
